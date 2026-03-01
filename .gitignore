@@ -1,0 +1,11 @@
+node_modules/
+artifacts/
+cache/
+.env
+.idea/
+.vscode/
+package-lock.json
+dist/
+build/
+coverage/
+.next/
